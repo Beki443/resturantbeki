@@ -1,0 +1,13 @@
+h2 {
+  margin-top: 200px;
+  text-align: center;
+  vertical-align: center;
+  font-weight: bold;
+  font-style: italic;
+  color: whitesmoke;
+}
+
+
+body {
+  background-image: url('../imgrest/restaurant.jpg');
+}
